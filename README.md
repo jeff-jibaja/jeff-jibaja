@@ -9,7 +9,6 @@
 
 ```javascript
 const jeff = {
-    pronouns: "He",
     code: ["Javascript", "java", "c#","php"],
     technologies: {       
         frontEnd: {
