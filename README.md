@@ -10,7 +10,7 @@
 ```javascript
 const jeff = {
     pronouns: "He",
-    code: ["Javascript", "java", "c#", "Java", "php"],
+    code: ["Javascript", "java", "c#","php"],
     technologies: {       
         frontEnd: {
             js: ["react","react-route"],
